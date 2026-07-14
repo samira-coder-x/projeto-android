@@ -55,7 +55,8 @@ header > p{
     color: white;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 20px;
+    /*o padding empurra as coisas para baixo, e mais interessante quando ha a vontade de descer os demais elementos*/
+    padding: 20px;
     font-size: 1.2em;
     padding-left: 10px;
     padding-right: 10px;
